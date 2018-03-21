@@ -1,4 +1,4 @@
-# MiniGuiStreamlink
+# [MiniGuiStreamlink](https://alexandr1235.github.io/MiniGuiStreamlink/)
 The simplest graphic interface for [Streamlink](https://streamlink.github.io/)
 
 ## Why
