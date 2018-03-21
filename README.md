@@ -18,9 +18,8 @@ Selecting quality Best (Best) or Worst (Worst)
 ## Installation and configuration
   
   1. Copy MiniGuiStreamlink.exe to the root of the Streamlink folder, the first time the streamlinkrc.ini configuration file is generated.
-  2. In the folder %\Streamlink\bin\mpv\ unpack mpv player, or in streamlinkrc.ini change the corresponding record player="*".
-  
-  3 To play video from VK.com in streamlinkrc.ini we fill the data (we take from the browser) http-cookie "remixrefkey = 0; remixsid = 0; remixstid = 0".
+  2. In the folder %\Streamlink\bin\mpv\ unpack mpv player, or in streamlinkrc.ini change the corresponding record player="*".  
+  3. To play video from VK.com in streamlinkrc.ini we fill the data (we take from the browser) http-cookie "remixrefkey = 0; remixsid = 0; remixstid = 0".
   
 ## Download
 
