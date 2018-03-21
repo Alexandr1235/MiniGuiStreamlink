@@ -6,7 +6,7 @@
 
 ## Why
 
-![](http://img-fotki.yandex.ru/get/486600/27515369.0/0_ae25f_40668c06_X5L.jpg)
+![](https://camo.githubusercontent.com/f6d4f20c5065f44e5d6e51d7f385fa2596153b0e/687474703a2f2f696d672d666f746b692e79616e6465782e72752f6765742f3438363630302f32373531353336392e302f305f61653235665f34303636386330365f58354c2e6a7067)
 
 The simplest graphic interface for Streamlink
 Main functions and capabilities:
