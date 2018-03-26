@@ -3,8 +3,8 @@ The simplest graphic interface for [Streamlink](https://streamlink.github.io/)
 
 ## Why
 
-![](https://camo.githubusercontent.com/f6d4f20c5065f44e5d6e51d7f385fa2596153b0e/687474703a2f2f696d672d666f746b692e79616e6465782e72752f6765742f3438363630302f32373531353336392e302f305f61653235665f34303636386330365f58354c2e6a7067)
-
+![MiniGuiStreamlink 1.01](https://user-images.githubusercontent.com/37623528/37718469-67d78ec2-2d2b-11e8-9e43-a743428db747.jpg)
+  
   The simplest graphic interface for Streamlink.
   
   Main functions and capabilities:
@@ -16,6 +16,13 @@ The simplest graphic interface for [Streamlink](https://streamlink.github.io/)
   Stream recording in the best possible quality, without lags and other glitches (Streamlink is quite resistant to problems with the network).
 
 Selecting quality Best (Best) or Worst (Worst).
+## Here's what's new:
+![MiniGuiStreamlink 2.0](https://user-images.githubusercontent.com/37623528/37927243-390eef02-3142-11e8-8e99-a9a2f0db75a8.jpg)
+
+ - Start MiniGuiStreamlink when Windows starts.
+ - Start Minimized.
+ - AutoPlay and AutoDownload.
+ - Tray Tip info.
 
 ## Installation and configuration
   
@@ -23,8 +30,8 @@ Selecting quality Best (Best) or Worst (Worst).
   2. In the folder %\Streamlink\bin\mpv\ unpack [mpv player](https://anonym.to/?https://mpv.io/installation/), or in streamlinkrc.ini change the corresponding record player="*".  
   3. To play video from VK.com in streamlinkrc.ini we fill the data (we take from the browser) http-cookie "remixrefkey = 0; remixsid = 0; remixstid = 0".
   
-## Download
+### Download
 
-[Download](https://rutracker.org/forum/viewtopic.php?t=5537119)
+[Download torrent](https://github.com/Alexandr1235/MiniGuiStreamlink/blob/master/Streamlink.torrent)
 
 [Releases](https://github.com/Alexandr1235/MiniGuiStreamlink/releases)
